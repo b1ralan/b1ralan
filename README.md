@@ -2,7 +2,7 @@
 ## I'am a *Front-End developer*.
 ![image](https://user-images.githubusercontent.com/72562783/114987623-ce71e180-9eae-11eb-8566-73759fe8e32c.png)
 
-### Skills: ![JS](https://img.shields.io/badge/-JAVASCRIPT-FF8C00?style=flat&logo=JavaScript) ![REACT](https://img.shields.io/badge/-REACT-4169E1?style=flatr&logo=React) ![axios](https://img.shields.io/badge/-AXIOS-6495ED?style=flat&logo=React) ![Redux](https://img.shields.io/badge/-Redux-9932CC?style=flat&logo=Redux) ![RESTAPI](https://img.shields.io/badge/-REST_API-FF4500?style=flat&logo=api) ![HTML](https://img.shields.io/badge/-HTML-8B0000?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS-0000CD?style=flat&logo=CSS3) ![GIT](https://img.shields.io/badge/-GIT-FFA07A?style=flat&logo=git) ![MOBX](https://img.shields.io/badge/-GIT-FFA07A?style=flat&logo=mobx)
+### Skills: ![JS](https://img.shields.io/badge/-JAVASCRIPT-FF8C00?style=flat&logo=JavaScript) ![REACT](https://img.shields.io/badge/-REACT-4169E1?style=flatr&logo=React) ![axios](https://img.shields.io/badge/-AXIOS-6495ED?style=flat&logo=React) ![Redux](https://img.shields.io/badge/-Redux-9932CC?style=flat&logo=Redux) ![RESTAPI](https://img.shields.io/badge/-REST_API-FF4500?style=flat&logo=api) ![HTML](https://img.shields.io/badge/-HTML-8B0000?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS-0000CD?style=flat&logo=CSS3) ![GIT](https://img.shields.io/badge/-GIT-FFA07A?style=flat&logo=git) ![MOBX](https://img.shields.io/badge/-MOBX-FFA07A?style=flat&logo=mobx)
 
 - 🔭 I’m currently working on this page. 
 - 📫 ## Сontact with me : 
