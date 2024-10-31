@@ -1,4 +1,4 @@
-# 👋 Hi there, my name is **Alexandr Biryukov**!
+# 👋 Hi there, my name is **Alexandr Biriukov**!
 ## I'am a *Front-End developer*.
 ![image](https://user-images.githubusercontent.com/72562783/114987623-ce71e180-9eae-11eb-8566-73759fe8e32c.png)
 
